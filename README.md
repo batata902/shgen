@@ -58,6 +58,19 @@ Example (with output file):
 Output
 ![FileOutput](https://raw.githubusercontent.com/batata902/shgen/refs/heads/pictures/fileoutput.png)
 
+## Responsible Use / Legal Notice
+----
+This repository contains tools that demonstrate techniques for remote command execution (web shells and reverse shells). These tools are intended **only** for legitimate security research, defensive testing, and educational use in environments where you have explicit authorization.
+
+**Do NOT** use any code from this repository against systems you do not own or do not have written permission to test. Unauthorized use may be illegal and could result in criminal and civil liability.
+
+By using this code you agree that you will:
+- Only use it on systems you own or have explicit written authorization to test.
+- Conduct testing in an isolated environment (VMs, private network).
+- Comply with all applicable laws and regulations.
+
+If you are unsure, consult legal counsel before using the code.
+
 Special Thanks
 ----
 Thanks to Messias Eric for the knowledge necessary for this simple project.
